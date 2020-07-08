@@ -50,7 +50,7 @@ public class DeckOfCardTest {
 			}
 		});
 		
-		Card oneCard = null;;
+		Card oneCard = null;
 		do {
 			oneCard = oneDeck.dealOneCard();
 			if (oneCard != null) {
